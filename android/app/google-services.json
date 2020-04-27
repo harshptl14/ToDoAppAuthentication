@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867365139500",
+    "firebase_url": "https://sharingapp-d440b.firebaseio.com",
+    "project_id": "sharingapp-d440b",
+    "storage_bucket": "sharingapp-d440b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867365139500:android:8f42398d6b2f5c473e0d89",
+        "android_client_info": {
+          "package_name": "com.example.sharing_content"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867365139500-drsj0ebhmn0jcro9ub86qn08gpdvu6qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ15f-S6u0xJ8sXKI09izKSJDgPR3wNgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867365139500-drsj0ebhmn0jcro9ub86qn08gpdvu6qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
